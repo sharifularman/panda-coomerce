@@ -1,0 +1,26 @@
+.panda-bg-color{
+    background-color: #FCEAE8;
+}
+.text-color{
+    color: #FF3B89;
+}
+.btn-bg-color{
+    background-color: #FF3B89;
+    color: white;
+    padding: 9px 25px;
+}
+.b-radius{
+    border-radius: 10px;
+}
+.feature-img img{
+    width: 100px;
+}
+.watch-bg-color{
+    background-color: orange;
+}
+.bag-bg-color{
+    background-color: orchid;
+}
+.shoes-bg-color{
+    background-color: blue;
+}
